@@ -24,7 +24,7 @@ after_script:
 
 branches:
   only:
-    - hexo/
+    - hexo
 env:
  global:
    - GH_REF: github.com/ekuwang/blog.git
